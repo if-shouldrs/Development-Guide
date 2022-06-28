@@ -25,7 +25,7 @@ Here's everything you have to pay attention to while developing something:
  3. Review the [SOLID](SOLID.md) principles;
  4. Review the [Top 10 OWASP Security Concerns](Top%2010%20OWASP%20Security%20Concerns.md) before and after adding features;
  5. Think like the end user - don't waste time on functionalities they don't want;
- 6. Create [pipelines](Deployment%20Environments#Pipelines.md) to ensure nothing breaks and deployment is easy;
+ 6. Create [pipelines](Deployment%20Environments.md#Pipelines) to ensure nothing breaks and deployment is easy;
  7. Write documentation per story completion and not per sprint;
 
 When it comes to UI design specifically, you should:
