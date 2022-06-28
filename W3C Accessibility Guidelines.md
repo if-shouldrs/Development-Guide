@@ -1,4 +1,4 @@
-Developing something with accessibility in mind implies support reader technology and (at the very least) pass inspections like the ones provided by the extension [Accessibility Insights for Web](https://accessibilityinsights.io/docs/web/overview/).
+Developing something with accessibility in mind implies supporting reader technology and (at the very least) pass inspections like the ones provided by the extension [Accessibility Insights for Web](https://accessibilityinsights.io/docs/web/overview/).
 This implies components are recognized by the system as what they actually are, have proper contrast, are properly labelled (use ARIA identifiers in HTML), are fully accessible via keyboard only, among other things.
 
 Something that is important but not very mentioned is that your interface should be viewable by a sighted person while a blind person is using it, so they can share activities.

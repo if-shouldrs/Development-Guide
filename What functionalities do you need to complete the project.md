@@ -2,7 +2,7 @@ After defining the abstract requirements in step 1, and determining what the bar
 
 If the requirements defined in step 1 are insufficient or need to be updated, repeat step 1 and come back.
 
-Once you have proper requirements, break them down into actionables (called user stories in Scrum) which will be self-assigned by each Developer to themselves.
+Once you have proper requirements, break them down into actionables (called user stories in Scrum) which will be self-assigned by each Developer to themselves. Basically just turn the abstract goals into concrete doable goals.
 
 TODO: Describe basics of how to transform requirements into user stories.
 

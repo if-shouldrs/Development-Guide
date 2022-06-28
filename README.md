@@ -12,7 +12,9 @@ Figuring out how to tackle a project involves asking these crucial questions:
  4. [What technologies should you use](What%20technologies%20should%20you%20use)?
  5. [On which sprint do you do what](On%20which%20sprint%20do%20you%20do%20what)?
 
-If you're developing your own project, and specially if it's on a smaller scale than 1 month, look at [[Applying Scrum methodologies at a lower scale]] too.
+If you don't know how much time to spend on each Scrum activity, see [here](Scrum%20Durations.md).
+
+If you're developing your own project, and specially if it's on a smaller scale than 1 month, look at [Applying Scrum methodologies at a lower scale](Applying%20Scrum%20methodologies%20at%20a%20lower%20scale) too.
 
 ## Development
 Ideally you're so used to developing that everything comes naturally, but realistically there'll always be a lot to keep track of and the process may differ per project.
