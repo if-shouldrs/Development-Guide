@@ -4,6 +4,6 @@ Regardless of what technology you choose or use, make sure that whatever you do 
 Each type of project has different types of technologies you have to juggle, but I've structured this by grouping different categories independent of project type. Each category then goes into detail as to what is applicable for what you want.
 
 With that in mind, here's the questions you should ask:
- - [Deployment Environments](Deployment%20Environments) - Where and how can you deploy your project?
- - [Project Management - Tools](Project%20Management%20-%20Tools) - What tools do you need to manage your project?
- - [Languages and Libraries](Languages%20and%20Libraries) - What should you use for your project?
+ - [Deployment Environments](Deployment%20Environments.md) - Where and how can you deploy your project?
+ - [Project Management - Tools](Project%20Management%20-%20Tools.md) - What tools do you need to manage your project?
+ - [Languages and Libraries](Languages%20and%20Libraries.md) - What should you use for your project?
