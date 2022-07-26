@@ -1,4 +1,5 @@
-Modern development is done in small repeated cycles, normally called Sprints. Sprints are supposed to end with something presentable to stakeholders. You can't do that if you have no UI. A UI that does nothing when you interact with it is useless.
+# High-Level Prototype Requirements
+Modern development is done in small, repeated cycles, normally called Sprints. Sprints are supposed to end with something presentable to stakeholders. You can't do that if you have no UI. A UI that does nothing when you interact with it is useless.
 
 What are the minimum backend and frontend functionalities required to have the project compile? All you want is something that kind of looks like what they want in the frontend and minimally performs in the backend.
 
