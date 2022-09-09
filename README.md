@@ -8,9 +8,10 @@ Every development project is broken down into the following categories:
 Figuring out how to tackle a project involves asking these crucial questions:
  1. [What does the end result look like](What%20does%20the%20end%20result%20look%20like.md)?
  2. [What are the bare minimum features required](What%20are%20the%20bare%20minimum%20features%20required.md)?
- 3. [What functionalities do you need to complete the project](What%20functionalities%20do%20you%20need%20to%20complete%20the%20project.md)?
- 4. [What technologies should you use](What%20technologies%20should%20you%20use.md)?
- 5. [On which sprint do you do what](On%20which%20sprint%20do%20you%20do%20what.md)?
+ 3. Technologies and Functionalities:
+	 1. [What technologies should you use](What%20technologies%20should%20you%20use.md)?
+	 2. [What functionalities do you need to complete the project](What%20functionalities%20do%20you%20need%20to%20complete%20the%20project.md)?
+ 4. [On which sprint do you do what](On%20which%20sprint%20do%20you%20do%20what.md)?
 
 If you don't know how much time to spend on each Scrum activity, see [here](Scrum%20Durations.md).
 

@@ -1,3 +1,5 @@
+Now that you've spit your product into different components, we need to determine what to prioritize for the first release:
+
 # High-Level Prototype Requirements
 Modern development is done in small, repeated cycles, normally called Sprints. Sprints are supposed to end with something presentable to stakeholders. You can't do that if you have no UI. A UI that does nothing when you interact with it is useless.
 

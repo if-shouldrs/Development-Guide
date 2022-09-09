@@ -1,4 +1,4 @@
-Here we go over each revelant category in deployment that may or may not be applicable to your product. Look at each header and first paragraph line(s) to see if it's applicable.
+Here's each revelant category in deployment that may or may not be applicable to your product. Look at each header and first paragraph line(s) to see if it's applicable.
 
 # Pipelines
 Modern development should follow a TDD (test driven development) structure. Pipelines are crucial for this as they make sure that what you just developed hasn't broken anything that was already in place. You don't want to waste time checking things you've already checked before, so write tests once, setup a pipeline once, and execute them on every commit.
