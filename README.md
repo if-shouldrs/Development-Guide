@@ -22,7 +22,7 @@ Ideally you're so used to developing that everything comes naturally, but realis
 
 Here's everything you have to pay attention to while developing something:
  1. Write tests first, code later (TDD) - [Writing tests](Writing%20tests.md);
- 2. Write comments everywhere. Make sure you can explain your code;
+ 2. [Write good comments](Write%20good%20comments.md). Make sure you can explain your code;
  3. Review the [SOLID](SOLID.md) principles;
  4. Review the [Top 10 OWASP Security Concerns](Top%2010%20OWASP%20Security%20Concerns.md) before and after adding features;
  5. Think like the end user - don't waste time on functionalities they don't want;
